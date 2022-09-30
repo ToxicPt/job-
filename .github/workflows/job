@@ -1,5 +1,7 @@
 name: .NET Core
 
+Workflow_dispatch
+
 on:
   push:
     branches: [ master ]
